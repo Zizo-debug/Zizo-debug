@@ -8,7 +8,7 @@
 
 ## 📌 About Me
 
-- 🎓 3rd Year Software Engineering student at FAST NUCES Islamabad  
+- 🎓 Junior Year Software Engineering student at FAST NUCES Islamabad  
 - 🎮 Passionate about Unity game development and interactive design  
 - 🔍 Actively looking for Unity Game Dev internship opportunities  
 - 🧠 Learning new tech and building projects to grow my skillset  
