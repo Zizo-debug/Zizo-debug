@@ -45,7 +45,6 @@
 - 💼 **Intern**, Zealot Labs (June–Aug 2023) — Learnt HTML, CSS, and JavaScript  
 - 🧠 **Event Organiser**, CodeCraft @ Nascon 2025  
   - Organized MCQ-based questions 
-  - Secured **50,000 PKR OGDCL Gold Sponsorship**
 - 🏛️ **Treasurer**, Cedar Student Council (2022–23)  
 - 🎯 **Head**, Cedar Event Management Society (2022–23)  
 - 📷 **Photographer**, Yearbook Committee (2021–22)  
