@@ -44,7 +44,8 @@
 - 🎮 **Unity Projects** — Personal game projects in progress  
 - 💼 **Intern**, Zealot Labs (June–Aug 2023) — Learnt HTML, CSS, and JavaScript  
 - 🧠 **Event Organiser**, CodeCraft @ Nascon 2025  
-  - Organized MCQ-based questions 
+  - Organized MCQ-based questions
+  - Secured OGDCL(Oil and gas development company limited) sponsor of 50,000 PKR
 - 🏛️ **Treasurer**, Cedar Student Council (2022–23)  
 - 🎯 **Head**, Cedar Event Management Society (2022–23)  
 - 📷 **Photographer**, Yearbook Committee (2021–22)  
